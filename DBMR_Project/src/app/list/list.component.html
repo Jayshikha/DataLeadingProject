@@ -1,0 +1,19 @@
+<div class="list-container">
+    <h3>Enter Your Deatails here</h3>
+    <div class="name">
+     <label for="name">Enter Your Name*</label>
+     <input type="text" #name>
+    </div>
+    <div class="email">
+     <label for="email">Enter Your Email*</label>
+     <input type="email" #email>
+    </div>
+    <div class="phone">
+     <label for="phone">Enter Your Mobile no.*</label>
+     <input type="number" #number>
+    </div>
+    <div class="button">
+        <button (click)="getUserInput(name.value, email.value, number.value)">Add Button</button>
+    </div>
+    
+</div>

@@ -1,0 +1,14 @@
+.list-container{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+}
+.list-container div{
+    display: flex;
+    flex-direction: column;
+    margin: 7px;
+
+}
+.list-container input{
+    width: fit-content;
+}

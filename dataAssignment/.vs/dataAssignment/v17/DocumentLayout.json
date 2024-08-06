@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|c:\\users\\lenovo\\source\\repos\\dataassignment\\dataassignment\\controllers\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|solutionrelative:dataassignment\\controllers\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|c:\\users\\lenovo\\source\\repos\\dataassignment\\dataassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|solutionrelative:dataassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|c:\\users\\lenovo\\source\\repos\\dataassignment\\dataassignment\\dataassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|solutionrelative:dataassignment\\dataassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|c:\\users\\lenovo\\source\\repos\\dataassignment\\dataassignment\\views\\lead\\getleaddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|solutionrelative:dataassignment\\views\\lead\\getleaddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|c:\\users\\lenovo\\source\\repos\\dataassignment\\dataassignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|solutionrelative:dataassignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|c:\\users\\lenovo\\source\\repos\\dataassignment\\dataassignment\\models\\enitity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|solutionrelative:dataassignment\\models\\enitity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|c:\\users\\lenovo\\source\\repos\\dataassignment\\dataassignment\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|solutionrelative:dataassignment\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|c:\\users\\lenovo\\source\\repos\\dataassignment\\dataassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7453FBBE-1305-4EEE-A0BE-B929C76CAD21}|dataAssignment\\dataAssignment.csproj|solutionrelative:dataassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetLeadData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Views\\lead\\GetLeadData.cshtml",
+              "RelativeDocumentMoniker": "dataAssignment\\Views\\lead\\GetLeadData.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Views\\lead\\GetLeadData.cshtml",
+              "RelativeToolTip": "dataAssignment\\Views\\lead\\GetLeadData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T21:09:23.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dataAssignment",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\dataAssignment.csproj",
+              "RelativeDocumentMoniker": "dataAssignment\\dataAssignment.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\dataAssignment.csproj",
+              "RelativeToolTip": "dataAssignment\\dataAssignment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T20:53:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "dataAssignment\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "dataAssignment\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T22:20:23.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "dataAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Program.cs",
+              "RelativeToolTip": "dataAssignment\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:35:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lead.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Controllers\\lead.cs",
+              "RelativeDocumentMoniker": "dataAssignment\\Controllers\\lead.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Controllers\\lead.cs",
+              "RelativeToolTip": "dataAssignment\\Controllers\\lead.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAHgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:48:30.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\appsettings.json",
+              "RelativeDocumentMoniker": "dataAssignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\appsettings.json",
+              "RelativeToolTip": "dataAssignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T20:34:37.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\appDBContext.cs",
+              "RelativeDocumentMoniker": "dataAssignment\\appDBContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\appDBContext.cs",
+              "RelativeToolTip": "dataAssignment\\appDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:32:10.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "enitity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Models\\enitity.cs",
+              "RelativeDocumentMoniker": "dataAssignment\\Models\\enitity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\dataAssignment\\dataAssignment\\Models\\enitity.cs",
+              "RelativeToolTip": "dataAssignment\\Models\\enitity.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:31:12.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

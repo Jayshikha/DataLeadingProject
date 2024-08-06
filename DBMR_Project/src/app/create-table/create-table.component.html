@@ -1,0 +1,40 @@
+<div class="createTable">
+    <div class="lead-table">
+        <h3>Lead Table</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Email</th>
+              <th>Number</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let lead of leads">
+              <td>{{ lead.name }}</td>
+              <td>{{ lead.email }}</td>
+              <td>{{ lead.number }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    <div class="followUp-table">
+        <h3>Folllow Up Table</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Status</th>
+              <th>Comment</th>
+              <th>Amount</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let lead of followleads">
+              <td>{{ lead.status }}</td>
+              <td>{{ lead.comment }}</td>
+              <td>{{ lead.amt }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+</div>

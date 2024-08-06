@@ -1,0 +1,21 @@
+<div class="followUp-containt">
+    <div class="status">
+      <select name="status" id="status">
+        <option value="">Select Status</option>
+        <option value="pending">Pending</option>
+        <option value="closed">Closed</option>
+        <option value="collected">Collected</option>
+      </select>
+    </div>
+    <div class="collected-amount">
+      <label for="amt">Collected Amount</label>
+      <input type="number" id="amt">
+    </div>
+    <div class="comment">
+      <textarea name="comment" id="comment" rows="5" cols="30"></textarea>
+    </div>
+    <div class="add">
+      <button (click)="getUserInput()">Add Button</button>
+    </div>
+  </div>
+  
